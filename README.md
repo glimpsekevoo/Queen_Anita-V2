@@ -27,30 +27,22 @@
 
 <a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. NEW SESSION ID METHOD
+### 2. GET SESSION ID HERE
 
-### SERVER 1 (DON'T SPAM SERVER) 
+### SERVER 1
+ 
+<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-### (PAIR CODE) 
+<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
-<a href='https://anita-server-1.onrender.com/pair' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+### SERVER 2 
+### GET SESSION ID HERE
 
-### (QR CODE) 
-<a href='https://anita-server-1.onrender.com/wasiqr' target="_blank"><img alt='QR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-### SERVER 2 (DON'T SPAM SERVER) 
-### (PAIR CODE)                              (PAIR CODE) 
+<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
+### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
-<a href='https://queen-anita-server-2.onrender.com/pair' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>     <a align="center"> <a href='https://queen-anita-server-2.onrender.com/wasiqr)' target="_blank"><img alt='QR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
-
-**PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
-
-
-### DEPLOY ON SCALINGO
-
-1. If you don't have an account in Scalingo, create one and deploy.
-    <br>
-    <a href='https://auth.scalingo.com/users/sign_in' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=scalingo&logoColor=white'/></a>
 
 ### DEPLOY ON RENDER
 
